@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\FastFoodPOS",
+    "\\FastFoodPOS\\Components",
+    "\\FastFoodPOS\\Forms",
+    "\\FastFoodPOS\\Forms\\CashierForms"
+  ],
+  "SelectedNode": "\\FastFoodPOS\\Forms\\CashierForms\\FormPOS.cs",
+  "PreviewInSolutionExplorer": false
+}
